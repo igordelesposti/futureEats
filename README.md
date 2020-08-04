@@ -3,7 +3,7 @@
 ![futureEats](https://user-images.githubusercontent.com/56797122/88712288-d9ea6600-d0ef-11ea-94b7-943faf0e1cbc.gif)<br>
 
 
-[Deploy-Firebase](https://frontend-eats.web.app/)
+[Deploy-Firebase](https://frontend-eats.web.app/)<br>
 [Documentation](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#70663d39-aa77-4995-91c5-673eae312916)
 
 ## General Info
